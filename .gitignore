@@ -1,3 +1,4 @@
 *
 !image_compress.rb
 !.gitignore
+!.rubocop.yml
